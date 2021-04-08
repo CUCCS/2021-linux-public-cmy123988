@@ -19,21 +19,21 @@ asciinema，Windows10--powershell
 
 #### 1.学习Systemd
 
-https://asciinema.org/a/RgXBZUJGOOlZdRSnZJML1f9e5
+[3.2 systemd-analyze&&3.3 hostnamectl](https://asciinema.org/a/RgXBZUJGOOlZdRSnZJML1f9e5)
 
-https://asciinema.org/a/92aAzQTt2kJEr9agxmPfh6kJd
+[3.4 localectl&&3.5 timedatectl&&3.6 loginctl](https://asciinema.org/a/92aAzQTt2kJEr9agxmPfh6kJd) 
 
-https://asciinema.org/a/R2b2kG5CWxjRIsN0QjpN8ThMs
+[4.1-4.4 UNIT](https://asciinema.org/a/R2b2kG5CWxjRIsN0QjpN8ThMs) 
 
-https://asciinema.org/a/evm0n2m2pXSAcouG4uZN5fj7e
+[5.1-5.4 unit的配置文件](https://asciinema.org/a/evm0n2m2pXSAcouG4uZN5fj7e) 
 
-https://asciinema.org/a/B0TaczL8sODAgmvQ5BQNuvAZl
+[六 Target](https://asciinema.org/a/B0TaczL8sODAgmvQ5BQNuvAZl) 
 
-https://asciinema.org/a/99LZ0ZeBeSwVUpociGUpBgPGY
+[七 日志管理](https://asciinema.org/a/99LZ0ZeBeSwVUpociGUpBgPGY) 
 
 #### 2.Systemd实战
 
-https://asciinema.org/a/cXDLuQTpG6XLwlNeTwlGEl4bF
+[实战 一~九](https://asciinema.org/a/cXDLuQTpG6XLwlNeTwlGEl4bF)
 
 ### 自查清单
 
