@@ -83,6 +83,10 @@ sudo apt-get install p7zip-full
 
 根据要求，将实验数据存入ans.txt并单独写实验报告
 
+#### Travis-ci构建
+
+注册Travis-ci并绑定GitHub，可以实现自动构建
+
 ### 参考资料
 
 [老师的b站教学视频](https://www.bilibili.com/video/BV1Hb4y1R7FE?p=2&spm_id_from=pageDriver)
