@@ -63,13 +63,13 @@ sudo apt-get install p7zip-full
 
 编写脚本并调试
 
-![task1](C:\Users\cmy\2021-linux-public-cmy123988\chap0x04\img\task1.png)
+![task1](img\task1.png)
 
 任务二
 
 编写脚本并调试
 
-![task2](C:\Users\cmy\2021-linux-public-cmy123988\chap0x04\img\task2.png)
+![task2](img\task2.png)
 
 任务三
 
@@ -79,7 +79,7 @@ sudo apt-get install p7zip-full
 7z x web_log.tsv.7z
 ```
 
-![task3](C:\Users\cmy\2021-linux-public-cmy123988\chap0x04\img\task3.png)
+![task3](img\task3.png)
 
 根据要求，将实验数据存入ans.txt并单独写实验报告
 
